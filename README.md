@@ -1,3 +1,26 @@
+## marker_msgs (jazzy) - 0.0.8-1
+
+The packages in the `marker_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy marker_msgs --override-release-repository-push-url git@github.com:revyos-ros/marker_msgs-release.git` on `Thu, 19 Dec 2024 08:44:50 -0000`
+
+The `marker_msgs` package was released.
+
+Version of package(s) in repository `marker_msgs`:
+
+- upstream repository: https://github.com/tuw-robotics/marker_msgs.git
+- release repository: https://github.com/revyos-ros/marker_msgs-release.git
+- rosdistro version: `0.0.8-1`
+- old version: `null`
+- new version: `0.0.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## marker_msgs (foxy) - 0.0.8-3
 
 The packages in the `marker_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --new-track --rosdistro foxy --track rolling marker_msgs` on `Mon, 27 Mar 2023 19:01:59 -0000`
